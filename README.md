@@ -43,5 +43,5 @@ Un análisis exhaustivo de reseñas en Yelp y Google Maps para el sector gastron
 ---
 
 ### 📫 Cómo contactarme:
-- **LinkedIn**: [[Enlace a mi perfil de LinkedIn](https://www.linkedin.com)](https://www.linkedin.com/in/germ%C3%A1n-nieva-895750263/)
+- **LinkedIn**: (https://www.linkedin.com/in/germ%C3%A1n-nieva-895750263/)
 - **Email**: germannieva123@gmail.com
