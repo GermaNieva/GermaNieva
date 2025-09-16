@@ -4,7 +4,7 @@
 Soy un apasionado de la tecnología y las matemáticas, con una fuerte inclinación hacia el análisis de datos y las finanzas. Mi objetivo es aplicar la ciencia de datos para generar soluciones innovadoras que realmente puedan hacer la diferencia en el mundo 🌍.
 
 - 🎓 **Formación**: Estudio **Contador Público** (3er año) y soy graduado en **Ciencia de Datos** por el bootcamp de Henry.
-- 💼 **Trabajo**: Actualmente trabajo como **Contador** en el **Ministerio de Hacienda** de mi provincia.
+- 💼 **Trabajo**: Actualmente trabajo como **Administrativo Contable** en el **Ministerio de Hacienda** de mi provincia.
 - 💡 **Intereses**: Ciencia de datos, machine learning, análisis financiero, tecnología y emprendimiento.
 - 🌱 Siempre estoy en busca de **nuevos desafíos** y oportunidades para **aprender y crecer**.
 
