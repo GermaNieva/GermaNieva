@@ -1,4 +1,4 @@
-## 👋 ¡Hola, soy Germán! Bienvenido a mi GitHub 🚀
+## 👋 ¡Hola, Mi nombre es Germán! Bienvenido a mi GitHub 🚀
 
 ### 🌟 Acerca de mí:
 Soy un apasionado de la tecnología y las matemáticas, con una fuerte inclinación hacia el análisis de datos y las finanzas. Mi objetivo es aplicar la ciencia de datos para generar soluciones innovadoras que realmente puedan hacer la diferencia en el mundo 🌍.
